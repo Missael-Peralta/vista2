@@ -1,0 +1,41 @@
+#text-center {
+    margin-top: 8px;
+    text-align: center;
+    font-size: 17px;
+}
+
+#text2-center {
+    text-align: center;
+    font-size: 14px;
+}
+
+#text3-center {
+    text-align: center;
+    font-size: 14px;
+}
+
+#containerMain {
+    height: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#containerMain2 {
+    background-color: #669933;
+    width: 60%;
+}
+
+#containerSecond {
+    background-color: green;
+}
+
+#textControl {
+    color: white;
+    font-size: 12px;
+    margin-left: 11px;
+    margin-top: 15px;
+}
+
+#iconAsistencias {
+    fill: greenyellow;
+}
