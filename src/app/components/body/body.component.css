@@ -22,11 +22,13 @@
 
 #containerMain2 {
     background-color: #669933;
-    width: 60%;
+    width: 90%;
 }
 
 #containerSecond {
     background-color: green;
+    width: auto;
+    text-align: center;
 }
 
 #textControl {
@@ -37,5 +39,38 @@
 }
 
 #iconAsistencias {
-    fill: greenyellow;
+    fill: #669933;
+    margin-top: 7px;
+}
+
+#containerRetardo {
+    background-color: orange;
+    width: 90%;
+}
+
+#containerRetardo2 {
+    background-color: orangered;
+    width: auto;
+    text-align: center;
+}
+
+#iconRetardos {
+    fill: orange;
+    margin-top: 7px;
+}
+
+#containerFalta {
+    background-color: rgb(225, 61, 61);
+    width: 90%;
+}
+
+#containerFalta2 {
+    background-color: rgb(169, 16, 16);
+    width: auto;
+    text-align: center;
+}
+
+#iconFaltas {
+    fill: rgb(225, 61, 61);
+    margin-top: 7px;
 }
